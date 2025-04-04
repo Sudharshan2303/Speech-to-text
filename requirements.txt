@@ -1,5 +1,5 @@
-librosa
-soundfile
-torch
-transformers==4.24.0
-speechbrain==0.5.15
+streamlit==1.32.2
+torch==2.2.1
+transformers==4.38.2
+librosa==0.10.1
+soundfile==0.12.1
